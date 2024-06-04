@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja Bhore</h1>
+<img src="https://i.ibb.co/pKWg9GP/Untitled-design.jpg">
 
 <p align="center" dir="auto">
   Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for adaptability and thriving in challenging situations, I am eager to make a valuable impact in your esteemed organization. 

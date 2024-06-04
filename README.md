@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/vJrYpRZ/POOJA-BHORE.jpg" style="align=:center;width:700px;height:300px">
+<b><h5>Hey, I'm</h5></b> 
+<h3>Pooja Bhore</h3>
 <p align="center" dir="auto">
   <strong>Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for adaptability and thriving in challenging situations, I am eager to make a valuable impact in your esteemed organization.</strong>
 </p>

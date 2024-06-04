@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Bhore</h1>
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/hero.svg"><img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/hero.svg" alt="Hero image" style="max-width: 100%;"></a></p>
 <p align="center" dir="auto">
-  A highly motivated, enthusiastic and passionate programmer with excellent academic records. Experienced in Full stack Web development and Machine Learning with a strong hand in competitive programming. Skilled in Python, JavaScript, MySQL, MongoDB, Java and UI/UX. IT undergraduate (2017-2021), MIT AOE from Pune, India. 
+  Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for adaptability and thriving in challenging situations, I am eager to make a valuable impact in your esteemed organization. 
 </p>
   
 <h3 align="center">Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for adaptability and thriving in challenging situations, I am eager to make a valuable impact in your esteemed organization.</h3>

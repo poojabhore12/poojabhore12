@@ -8,7 +8,7 @@
 
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/pooja-bhore-424a79257/" rel="nofollow">
-    <i class="bi bi-linkedin"></i> 
+    <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/linkedin.svg" alt="Linkedin image" style="max-width: 100%;">
   </a> 
   <a href="https://www.hackerrank.com/profile/psbhore" rel="nofollow">
     <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/hackerrank.svg" alt="Hackerrank image" style="max-width: 100%;">

@@ -9,10 +9,7 @@
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/pooja-bhore-424a79257/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/psbhore" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
-  </a>
+  </a>  
 </p>
 
 ---
@@ -52,7 +49,6 @@
 <td>
   <img alt="ReactJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="jQuery" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
   <img alt="Rails" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
 </td>
 </tr>

@@ -1,83 +1,71 @@
 <h1 align="center">Hi 👋, I'm Pooja Bhore</h1>
+
 <p align="center" dir="auto">
   <strong>Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for adaptability and thriving in challenging situations, I am eager to make a valuable impact in your esteemed organization.</strong>
 </p>
-📫 How to reach me psbhore12@gmail.com
 
-📄 Know about my experiences https://drive.google.com/file/d/13kDe9XPHv4QHV9SJ0iQ3kfLcLvAZrAqk/view?usp=drive_link
+📫 **How to reach me:** [psbhore12@gmail.com](mailto:psbhore12@gmail.com)  
+
+📄 **Know about my experiences:** [View Resume](https://drive.google.com/file/d/13kDe9XPHv4QHV9SJ0iQ3kfLcLvAZrAqk/view?usp=drive_link)
 
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/pooja-bhore-424a79257/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/linkedin.svg" alt="Linkedin image" style="max-width: 100%;">
-  </a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/psbhore" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/hackerrank.svg?raw=true)" alt="Hackerrank image" style="max-width: 100%;">
-  </a>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
 </p>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Languages and Tools I use:</h3><a id="user-content-languages-and-tools-i-use" class="anchor" aria-label="Permalink: Languages and Tools I use:" href="#languages-and-tools-i-use"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+---
+
+### 🛠️ Languages and Tools I Use
+
 <table>
 <thead>
 <tr>
-<th><strong>For</strong></th>
-<th><strong>I Use</strong></th>
+<th><strong>Category</strong></th>
+<th><strong>Technologies</strong></th>
 </tr>
 </thead>
 <tbody>
+
 <tr>
-<td><strong>Programming Language</strong></td>
+<td><strong>Programming Languages</strong></td>
 <td>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png">
-    <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" style="max-width: 100%;">
-  </a> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
-  </a> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-    <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 100%;">
-  </a> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;">
-  </a> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-    <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png">
-    <img align="left" alt="Ruby" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png" style="max-width: 100%;">
-  </a>
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="Ruby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
 </td>
 </tr>
+
 <tr>
 <td><strong>Databases</strong></td>
 <td>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-    <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;">
-  </a> 
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </td>
 </tr>
+
 <tr>
-<td><strong>Frameworks &amp; Libraries</strong></td>
+<td><strong>Frameworks & Libraries</strong></td>
 <td>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
-    <img align="left" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" style="max-width: 100%;">
-  </a> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-    <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png">
-    <img align="left" alt="Rails" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png" style="max-width: 100%;">
-  </a>
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png">
-    <img align="left" alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" style="max-width: 100%;">
-  </a>
+  <img alt="ReactJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="jQuery" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+  <img alt="Rails" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
 </td>
 </tr>
+
 <tr>
-<td><strong>Other</strong></td>
+<td><strong>Other Tools</strong></td>
 <td>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
-    <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" style="max-width: 100%;">
-  </a>
+  <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </td>
 </tr>
+
 </tbody>
 </table>

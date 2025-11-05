@@ -5,13 +5,6 @@
 </p>
 
 📫 **How to reach me:** [psbhore12@gmail.com](mailto:psbhore12@gmail.com)  
-
-<p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/pooja-bhore-424a79257/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>  
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools I Use

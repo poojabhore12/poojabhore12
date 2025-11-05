@@ -6,8 +6,6 @@
 
 📫 **How to reach me:** [psbhore12@gmail.com](mailto:psbhore12@gmail.com)  
 
-📄 **Know about my experiences:** [View Resume](https://drive.google.com/file/d/13kDe9XPHv4QHV9SJ0iQ3kfLcLvAZrAqk/view?usp=drive_link)
-
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/pooja-bhore-424a79257/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>

@@ -4,7 +4,7 @@
   <strong>Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for adaptability and thriving in challenging situations, I am eager to make a valuable impact in your esteemed organization.</strong>
 </p>
 
-💼 **Currently working as:** Intern at [Somvanshi Technologies](https://www.somvanshitechnologies.com)  
+💼 **Currently working as:** Junior Software Engineer at [Somvanshi Technologies](https://www.somvanshitechnologies.com)  
 📫 **How to reach me:** [psbhore12@gmail.com](mailto:psbhore12@gmail.com)  
 ---
 

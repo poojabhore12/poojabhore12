@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Bhore</h1>
 
 <p align="center" dir="auto">
-  <strong>Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for adaptability and thriving in challenging situations, I am eager to make a valuable impact in your esteemed organization.</strong>
+  <strong>Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known fo[...]
 </p>
 
 💼 **Currently working as:** Junior Software Engineer at [Somvanshi Technologies](https://www.somvanshitechnologies.com)  
@@ -57,5 +57,13 @@
 </td>
 </tr>
 
+<tr>
+<td><strong>AI & Models</strong></td>
+<td>
+  AI, RAG, LLM
+</td>
+</tr>
+
 </tbody>
 </table>
+

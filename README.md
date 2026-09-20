@@ -84,8 +84,8 @@
 <td><strong>Frameworks & Libraries</strong></td>
 <td>
   <img
-    alt="ReactJS"
-    title="ReactJS"
+    alt="React"
+    title="React"
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   />
@@ -111,8 +111,20 @@
 </tr>
 
 <tr>
-<td><strong>Other Tools</strong></td>
+<td><strong>Cloud & DevOps</strong></td>
 <td>
+  <img
+    alt="AWS"
+    title="AWS"
+    width="40px"
+    src="https://cdn.simpleicons.org/amazonaws"
+  />
+  <img
+    alt="Docker"
+    title="Docker"
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  />
   <img
     alt="Linux"
     title="Linux"
@@ -125,12 +137,6 @@
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   />
-  <img
-    alt="Docker"
-    title="Docker"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-  />
 </td>
 </tr>
 
@@ -141,13 +147,13 @@
     alt="OpenAI"
     title="OpenAI"
     width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg"
+    src="https://cdn.simpleicons.org/openai"
   />
   <img
     alt="Hugging Face"
     title="Hugging Face"
     width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
+    src="https://cdn.simpleicons.org/huggingface"
   />
   <img
     alt="LangChain"
@@ -169,12 +175,14 @@
 <td>
   <img
     alt="LLM"
-    title="Large Language Models (LLM)"
+    title="Large Language Models"
+    height="28px"
     src="https://img.shields.io/badge/LLM-Large%20Language%20Models-7F3DFF?style=flat-square"
   />
   <img
     alt="RAG"
-    title="Retrieval-Augmented Generation (RAG)"
+    title="Retrieval-Augmented Generation"
+    height="28px"
     src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-5594D2?style=flat-square"
   />
 </td>

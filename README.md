@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pooja Bhore</h1>
 
 <p align="center" dir="auto">
-  <strong>Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known fo[...]
+  <strong>Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for my problem-solving skills, adaptability, and passion for learning new technologies.</strong>
 </p>
 
 💼 **Currently working as:** Junior Software Engineer at [Somvanshi Technologies](https://www.somvanshitechnologies.com)  
-📫 **How to reach me:** [psbhore12@gmail.com](mailto:psbhore12@gmail.com)  
+📫 **How to reach me:** [psbhore12@gmail.com](mailto:psbhore12@gmail.com)
+
 ---
 
 ### 🛠️ Languages and Tools I Use
@@ -17,6 +18,7 @@
 <th><strong>Technologies</strong></th>
 </tr>
 </thead>
+
 <tbody>
 
 <tr>
@@ -41,7 +43,7 @@
 <tr>
 <td><strong>Frameworks & Libraries</strong></td>
 <td>
-<img alt="ReactJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="ReactJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="Rails" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
@@ -58,12 +60,22 @@
 </tr>
 
 <tr>
-<td><strong>AI & Models</strong></td>
+<td><strong>AI & Generative AI</strong></td>
 <td>
-  AI, RAG, LLM
+  <img alt="OpenAI" width="40px" src="https://cdn.simpleicons.org/openai"/>
+  <img alt="Hugging Face" width="40px" src="https://cdn.simpleicons.org/huggingface"/>
+  <img alt="LangChain" width="40px" src="https://cdn.simpleicons.org/langchain"/>
+  <img alt="Google Gemini" width="40px" src="https://cdn.simpleicons.org/googlegemini"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>AI Technologies</strong></td>
+<td>
+  <img alt="LLM" width="40px" src="https://cdn.simpleicons.org/googlegemini"/>
+  <img alt="RAG" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
 </td>
 </tr>
 
 </tbody>
 </table>
-

@@ -5,7 +5,7 @@
 </p>
 
 💼 **Currently working as:** Junior Software Engineer at [Somvanshi Technologies](https://www.somvanshitechnologies.com)  
-📫 **How to reach me:** [psbhore12@gmail.com](mailto:psbhore12@gmail.com)
+📫 **How to reach me:** [poojabhore.wok@gmail.com](mailto:poojabhore.work@gmail.com)
 
 ---
 

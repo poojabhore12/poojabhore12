@@ -61,13 +61,7 @@
 
 <tr>
 <td><strong>AI & Generative AI</strong></td>
-<td>
-  <img
-    alt="OpenAI"
-    title="OpenAI"
-    width="40px"
-    src="https://cdn.simpleicons.org/openai"
-  />
+<td>  
   <img
     alt="Hugging Face"
     title="Hugging Face"

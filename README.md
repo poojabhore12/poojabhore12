@@ -62,17 +62,48 @@
 <tr>
 <td><strong>AI & Generative AI</strong></td>
 <td>
-  <img alt="OpenAI" width="40px" src="https://cdn.simpleicons.org/openai"/>
-  <img alt="Hugging Face" width="40px" src="https://cdn.simpleicons.org/huggingface"/>
-  <img alt="LangChain" width="40px" src="https://cdn.simpleicons.org/langchain"/>
+  <img
+    alt="OpenAI"
+    title="OpenAI"
+    width="40px"
+    src="https://cdn.simpleicons.org/openai"
+  />
+  <img
+    alt="Hugging Face"
+    title="Hugging Face"
+    width="40px"
+    src="https://cdn.simpleicons.org/huggingface"
+  />
+  <img
+    alt="LangChain"
+    title="LangChain"
+    width="40px"
+    src="https://cdn.simpleicons.org/langchain"
+  />
+  <img
+    alt="Google Gemini"
+    title="Google Gemini"
+    width="40px"
+    src="https://cdn.simpleicons.org/googlegemini"
+  />
 </td>
 </tr>
 
 <tr>
 <td><strong>AI Technologies</strong></td>
 <td>
-  <img alt="LLM" width="40px" src="https://cdn.simpleicons.org/googlegemini"/>
-  <img alt="RAG" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
+  <img
+    alt="LLM"
+    title="Large Language Models"
+    height="28px"
+    src="https://img.shields.io/badge/LLM-Large%20Language%20Models-7F3DFF?style=flat-square"
+  />
+  <img
+    alt="RAG"
+    title="Retrieval-Augmented Generation"
+    height="28px"
+    src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-5594D2?style=flat-square"
+  />
 </td>
 </tr>
 

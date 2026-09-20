@@ -1,115 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pooja Bhore</h1>
-
-<p align="center" dir="auto">
-  <strong>
-    Highly motivated individual seeking a challenging position within an organization
-    where I can leverage my skills to contribute to both company growth and my personal
-    development. Known for my problem-solving skills, adaptability, and passion for
-    learning new technologies.
-  </strong>
-</p>
-
-💼 **Currently working as:** Junior Software Engineer at [Somvanshi Technologies](https://www.somvanshitechnologies.com)  
-📫 **How to reach me:** [psbhore12@gmail.com](mailto:psbhore12@gmail.com)
-
----
-
-### 🛠️ Languages and Tools I Use
-
-<table>
-<thead>
-<tr>
-<th><strong>Category</strong></th>
-<th><strong>Technologies</strong></th>
-</tr>
-</thead>
-
-<tbody>
-
-<tr>
-<td><strong>Programming Languages</strong></td>
-<td>
-  <img
-    alt="Python"
-    title="Python"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  />
-  <img
-    alt="JavaScript"
-    title="JavaScript"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  />
-  <img
-    alt="Java"
-    title="Java"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-  />
-  <img
-    alt="HTML5"
-    title="HTML5"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  />
-  <img
-    alt="CSS3"
-    title="CSS3"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  />
-  <img
-    alt="Ruby"
-    title="Ruby"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
-  />
-</td>
-</tr>
-
-<tr>
-<td><strong>Databases</strong></td>
-<td>
-  <img
-    alt="MySQL"
-    title="MySQL"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  />
-</td>
-</tr>
-
-<tr>
-<td><strong>Frameworks & Libraries</strong></td>
-<td>
-  <img
-    alt="React"
-    title="React"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  />
-  <img
-    alt="Node.js"
-    title="Node.js"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-  />
-  <img
-    alt="Bootstrap"
-    title="Bootstrap"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-  />
-  <img
-    alt="Ruby on Rails"
-    title="Ruby on Rails"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"
-  />
-</td>
-</tr>
-
 <tr>
 <td><strong>Cloud & DevOps</strong></td>
 <td>
@@ -117,7 +5,7 @@
     alt="AWS"
     title="AWS"
     width="40px"
-    src="https://cdn.simpleicons.org/amazonaws"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazonaws.svg"
   />
   <img
     alt="Docker"
@@ -147,13 +35,13 @@
     alt="OpenAI"
     title="OpenAI"
     width="40px"
-    src="https://cdn.simpleicons.org/openai"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg"
   />
   <img
     alt="Hugging Face"
     title="Hugging Face"
     width="40px"
-    src="https://cdn.simpleicons.org/huggingface"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/huggingface.svg"
   />
   <img
     alt="LangChain"
@@ -187,6 +75,3 @@
   />
 </td>
 </tr>
-
-</tbody>
-</table>
